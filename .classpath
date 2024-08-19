@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/commons-compress-1.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/extentreports-5.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/jakarta.activation-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/jsoup-1.15.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/junit-jupiter-api-5.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/log4j-api-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/log4j-core-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/opencsv-5.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/selenium-api-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/selenium-support-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/testng-7.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/xstream-1.4.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/log4j-slf4j-impl-2.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/slf4j-api-1.7.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/freemarker-2.3.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/rxjava-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/selenium-chrome-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/selenium-edge-driver-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/selenium-server-4.23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jotiba Naik/eclipse-workspace/Automator2024/lib/selenium-devtools-v127-4.23.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
